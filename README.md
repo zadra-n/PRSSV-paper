@@ -6,8 +6,12 @@ Codes used for data handling, plotting and visualizing the results of the Sgarab
 
 Using DistanceCalculator `distance_matrix_calculator.py`
 
-Then we plot the downsapled distance matrix using this esay R script `heatmap_prssv.R`
+Then we plot the downsampled distance matrix using this easy R script `heatmap_prssv.R`
 
-## Plot the pirwise distance Figure 2B
+## Plot the pairwise distance Figure 2B
 
-From the whole dataset, we plot all the p-distance between seqeunces grouping them by their source using this r script `Distance_plot.R`
+From the whole dataset, we plot all the p-distance between sequences, grouping them by their source using this r script `Distance_plot.R`
+
+## Suppelmentary
+
+The `Supplementary_File' directory contains the supplementary files obtained from the Lazypipe output
