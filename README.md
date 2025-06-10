@@ -12,6 +12,6 @@ Then we plot the downsampled distance matrix using this easy R script `heatmap_p
 
 From the whole dataset, we plot all the p-distance between sequences, grouping them by their source using this r script `Distance_plot.R`
 
-## Suppelmentary
+## Supplementary
 
 The `Supplementary_File' directory contains the supplementary files obtained from the Lazypipe output
